@@ -12,4 +12,4 @@ This data set consists of Placement data of students in a XYZ campus. It include
 ![Campus Recruitements - Jupyter Notebook and 2 more pages - Personal - Microsoft​ Edge 30-04-2021 17_59_52 (2)](https://user-images.githubusercontent.com/64539670/116695513-57743700-a9de-11eb-99e5-7f6006295f98.png)
 
 # Current status
-Work in progress
+Work in progress...
