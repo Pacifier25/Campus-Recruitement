@@ -18,6 +18,8 @@ https://campus-recruitment-project.herokuapp.com/
 
 ![Campus_Placement - Jupyter Notebook and 2 more pages - Personal - Microsoft​ Edge 09-05-2021 23_00_01 (2)](https://user-images.githubusercontent.com/64539670/117582264-cfe5a100-b11e-11eb-9349-298009ae5bba.png)
 
+![Campus-Recruitement_Campus_Placement_Updated ipynb at main · Pacifier25_Campus-Recruitement - Google Chrome 24-11-2021 13_17_33 (2)](https://user-images.githubusercontent.com/64539670/143196779-52eaef4c-f74f-4942-9333-f493944f48a4.png)
+
 # Updated
 Added Precision,Recall_Score and confusion matrix
 
