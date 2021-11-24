@@ -18,6 +18,8 @@ https://campus-recruitment-project.herokuapp.com/
 
 ![Campus_Placement - Jupyter Notebook and 2 more pages - Personal - Microsoft​ Edge 09-05-2021 23_00_01 (2)](https://user-images.githubusercontent.com/64539670/117582264-cfe5a100-b11e-11eb-9349-298009ae5bba.png)
 
+# Updated
+Added Precision,Recall_Score and confusion matrix
 
 # Current status
 Completed 👍
